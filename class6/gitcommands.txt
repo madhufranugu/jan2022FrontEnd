@@ -21,3 +21,6 @@ very first time
 
 git clone https://github.com/madhufranugu/jan2022FrontEnd.git
 
+and every 
+
+git pull 

@@ -1,0 +1,63 @@
+
+
+UI AND UX -- User Experience --> color, layout 
+css --> 
+
+
+
+
+
+
+UI Designer -->
+
+UI Developer --> htmlcss/ js (typescript ) and modern frameworks to develop web applications
+web 2.0 --> Frameworks SPA (single page applications) --> dynamic 
+web 3.0 --> pwa / crypto -- install as app 
+
+web applications --> native application ()
+
+web application which runs in the browser 
+
+static pages --> html/css
+
+wordpress/blog 
+dynamic -- js (big/databases and api's) and dynamic change the UI 
+
+SPA MPA e.t.c 
+
+
+
+
+UI Design -- html/css / figma/sketch 
+
+exe == windows --> c++, .net/c#/ java / python 
+
+c++ --> machine dependent 
+
+.exe ==> binaries --> 0/1 
+
+.exe == binary installable which only works in windows operating system
+.deb ==> debora /ubuntu --> binary install which only works in linux debora distributions 
+ios -->  iphone/ipad .e.t.c 
+macos --> mac books 
+
+
+native applications 
+
+ios -- swift -- objective C 
+android -- java/kotlin
+windows == c++
+
+pwa -->
+js -- react native -- js --> native applications 
+camera --> notifications--> 
+
+react native / native script for angular --> native  --> hybrid web/native 
+
+electron --> windows/mac/linux -- desktop applications --> javascript 
+
+
+web --> 2 years 
+react /angular --
+-------------------------------------------------------------------------------
+fine grained dom upgrades -- solidjs 

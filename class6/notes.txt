@@ -69,3 +69,6 @@ distributed across multiple machines
 --> central repo --> cloud
 
 github /gitlabs-- ado -
+
+--> local repo ==> git --> central repo --> restore the whole central repo 
+--> remote repo or central repo --> 
