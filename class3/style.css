@@ -1,0 +1,95 @@
+/* 
+Selectors
+
+1) Universal Selector (matches all the elements)
+*/
+
+* {
+  font-size: 15px; /** css properties **/
+  color: white;
+}
+
+/** 2) Html Element Selector **/
+
+div {
+  border: 1px solid violet;
+  margin-top: 3px;
+}
+
+
+/** 3) id selector **/
+#maths {
+  color: red;
+}
+
+/** 4) class selector **/
+.read {
+  background-color: yellow;
+}
+
+/** Relationship selectors **/
+/**5) descendent selector (space betweem elements) **/
+
+div span {
+  color: orange;
+}
+
+/** 6) child selector (>) **/
+div > span {
+  color: blueviolet;
+}
+
+/** 7) Next Sibling Selector (~) **/
+
+.bestFruit ~ li {
+  color: red;
+}
+
+/** 8) Next immediate sibling selector (+) **/
+
+.bestFruit + .goodFruit {
+  color: blue;
+}
+
+/** 9) attribute selector **/
+/** attribute equals to [attr="val"]**/
+[href="https://www.google.com"]
+{
+  color: red;
+}
+
+/** attribute ends with to [attr$="val"]**/
+[href$=".in"] {
+  color: blue;
+}
+/** attribute starts with to [attr^="val"]**/
+[href^="www."] {
+  color: green;
+}
+
+/** attribute contains with to [attr*="val"]**/
+[href*="times"] {
+  color: aqua;
+}
+
+/** 10) Group selector 
+
+/* 
+p {
+  border: 1px solid aqua;
+  color: green;
+  font-size: 25px;
+}
+
+span {
+    border: 1px solid aqua;
+    color: green;
+    font-size: 25px;
+} */
+
+p,span{
+    border: 1px solid aqua;
+    color: green;
+    font-size: 25px;
+}
+

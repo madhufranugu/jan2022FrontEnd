@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+
+        body{
+            margin:0;
+        }
+        .container{
+            width: 600px;
+            height: 1500px;
+            background-color: bisque;
+            margin: 100px;
+        }
+
+        .box{
+            border: 1px solid green;
+            width: 200px;
+            height: 200px;
+            margin: 10px;
+            padding: 10px;
+            color: white;
+            /** static, fixed, absolute, relative **/
+             
+        }
+        .red {
+            background-color: red;
+
+        }
+        .blue{
+            background-color: blue;
+            position: relative;
+            top:0;
+
+            left: 0;
+        }
+       
+        .inner{
+            width: 100px;
+            height: 100px;
+            position: absolute;
+            left: 0;
+            top:0;
+            background-color: yellow;
+            margin: 20px;
+            color: black;
+        }
+
+        .green{
+            background-color: green;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+
+        <div class="box red">
+            First 
+        </div>
+        <div class="box blue">
+
+            <div class="inner">
+                Second Inner
+            </div>
+            Second
+        </div>
+        <div class="box green">
+            Third
+        </div>
+
+        <div class="box green">
+            Third
+        </div>
+        <div class="box green">
+            Third
+        </div>
+        <div class="box green">
+            Third
+        </div>
+        <div class="box green">
+            Third
+        </div>
+        <div class="box green">
+            Third
+        </div>
+        <div class="box green">
+            Third
+        </div>
+       
+    </div>
+    
+</body>
+</html>

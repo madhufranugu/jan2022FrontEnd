@@ -1,0 +1,54 @@
+Topics today
+HTML & HTML TAGS
+1) Intro to doctype
+2) Basic tags
+3) h1 - h6
+4) p
+5) br 
+6) img
+7) a
+
+8) list elements 
+  a) ol li 
+  b) ul li
+  c) dl dt dd 
+9) div block level 
+10) span inline 
+11) class attrib, id attrib 
+12) input
+13) select
+14) table 
+15) button
+
+Excercise:
+
+BlockQuote
+Em (Emphasis)
+
+
+
+html5
+main
+Footer 
+--
+slack group --> 
+git --
+--
+www --> tomcat --> index.html 
+browser --> request (web page) --> html --> index.html ()
+--> default.aspx --> c# code --> html -->
+--> index.jsp (default.jsp) --> java code 
+
+--Visual Studio Code --> Most popular -->
+    <!-- this is comment (ctrl+ /)-->
+    <!--
+     <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title> -->
+
+    nodejs 
+
+    -
+
+    913-300-0152

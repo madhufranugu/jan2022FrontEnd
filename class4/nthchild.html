@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body {
+            margin: 40px;
+        }
+
+        /* tr:nth-child(odd){
+            background-color: aqua;
+           
+        }
+
+        tr:nth-child(even){
+            background-color: lightgreen;
+            font-size: 45px;
+            font-weight: bold; 
+        } */
+        /** n = ...0,1,2,3...**/
+        /**
+         2n+1
+         ---------------
+        0 -- 1
+         1 -- 3
+         2 -- 5
+
+         2n+10
+         -----------------
+ 
+
+         
+         
+         **/
+        tr:nth-child(2n+1){
+            background-color: lightgreen;
+            /* font-size: 45px;
+            font-weight: bold; */
+        }
+        </style>
+</head>
+<body>
+    
+    <!-- nth child -->
+
+    <table>
+
+        <thead>
+            <tr>
+                <th> Name </th>
+                <th> Age</th>
+                <th> Place  </th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td> John </td>
+                <td> 21</td>
+                <td> New York   </td>
+            </tr>
+
+            <tr>
+                <td> Bob </td>
+                <td> 45</td>
+                <td> New Jersey   </td>
+            </tr>
+
+            <tr>
+                <td> Sam </td>
+                <td> 16</td>
+                <td> Seattle  </td>
+            </tr>
+            <tr>
+                <td> Jim </td>
+                <td> 16</td>
+                <td> Seattle  </td>
+            </tr>
+
+        </tbody>
+    </table>
+</body>
+</html>

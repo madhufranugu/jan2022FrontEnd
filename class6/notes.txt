@@ -1,0 +1,71 @@
+Git --> Version Control Code Repository 
+
+repository --> where code is kept 
+data --> database 
+
+Version Control 
+
+4 folks in a  team --> code 
+
+releases ==> 
+
+First Quarter -- March - June 
+
+Q1 --> release June -- 
+
+product -- 100 of features 
+
+10's of Epics --
+  100's of features 
+
+
+10 features -- 
+code --> release --> 
+
+dev -- qa -- production environments 
+
+dev --> code is committed -- push to dev environment --
+
+example.com --> 
+
+dev.example.com --> test 
+
+3 weeks or 4 weeks push to qa --> end of sprint --> qa folks will test 
+qa.example.com 
+
+4 month -- prod --> whole world can see your features 
+
+www.example.com --> 
+
+q1 -- release 
+
+ new feature --> Q2 
+march -- june (q1)
+
+code (bugs) -- fix -- release only in Q1 code --> versioning/tagging --> v1 
+--> v1.1
+--> v1.2 
+july -- october --> v2 
+code --> new code while still in development/testing --> move to production  
+
+v ==> 2.0
+
+
+--- versions and release --> Git --> 
+
+Linux operating system --> Linus Trivolds 
+
+
+svn/cvs e.t.c. 
+tfs --> 
+
+---> Git 
+--> https://git-scm.com/download/win
+
+--> distributed vc ==> 
+
+distributed across multiple machines 
+
+--> central repo --> cloud
+
+github /gitlabs-- ado -

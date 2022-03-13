@@ -1,0 +1,6 @@
+1) what is the attribute we need to give for image (img tag)
+
+  -- src
+
+2) What is the attribute for anchor tag or link 
+  --href 

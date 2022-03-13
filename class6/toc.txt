@@ -1,0 +1,4 @@
+1) Git Repo
+2) Responsive design
+3) Media Query
+4) Boostrap css framework/Tail wind css 

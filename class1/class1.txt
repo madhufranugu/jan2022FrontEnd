@@ -1,0 +1,29 @@
+
+Topics Covered 
+
+1) Overview of Course
+2) History of Browsers
+3) History of Javascript
+4) Nodejs, Angular, React and current web 3.0
+5) Html, CSS
+6) Client Server Architecture/Domain Name 
+
+
+6 a) Where does HTML/CSS/JS FILE EXIST, HOW WEB WORKS
+
+    A) HOSTING SERVER 
+   --> SERVERS (PHYSICAL / LOGICAL)
+    B) Domain Name 
+	C) IP - PORT 
+
+6 b) REQUEST RESPONSE 
+
+6 c)  WHAT STARTING FILE WILL BE RENDERED
+
+--Foundations of html/css/javascript 
+
+--Angular / React 
+
+--> End to End Project 
+
+Begineer --> Advanced --> Ninja 

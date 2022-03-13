@@ -1,0 +1,18 @@
+1) Box Model 
+2) Position
+ static, absolute, relative, fixed 
+3) float
+
+if time permits 
+
+4) media query example (Responsive Web Design)
+5) Bootstrap
+
+Box Model:
+
+Every element is represented by a rectangular box. The line around the content of the element is represented by border.
+The space between the content and the border is represented by padding. The space between border and external elements is 
+represented by Margin.
+
+
+

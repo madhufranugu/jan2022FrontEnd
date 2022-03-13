@@ -1,0 +1,29 @@
+doctype will tell the browser what version of html we are using 
+--> <!DOCTYPE html> --> html 5 version (1/2/3/4.1, 4.2) --> HTML 5 
+
+
+tag 
+normal tag 
+<tagName> --> starting tag 
+</tagName> --> ending tag 
+
+self closing tag --> element 
+
+
+1) Install
+
+ Visual Studio Code (VS Code)
+  nodejs (https://nodejs.org/en/) 
+ or
+  nvm -- https://github.com/nvm-sh/nvm#install--update-script
+  windows -- (https://github.com/coreybutler/nvm-windows/releases)
+
+ 2) Run 
+  ```
+  npm i -g live-server
+  ``` 
+
+3) live-server .
+
+
+favicon.ico --> icon 

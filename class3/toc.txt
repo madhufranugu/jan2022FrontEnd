@@ -1,0 +1,53 @@
+HTML
+-------------------------------------
+1) div block level 
+2) span inline 
+3) class attrib, id attrib 
+4) input (text input, radio button, checkbox)
+5) select
+6) table 
+7) button
+
+CSS
+---------------------------------------
+
+
+5) CSS 
+    a)Universal Selectors
+    b)Html Element Selectors
+    c) Id Selector
+    d) class Selector 
+     Relationship Selectors 
+    e) Descendent Selector (space)
+    f) child selector (>)
+    g) next sibling selector (~)
+    h) next sibling immediate selector (+)
+    i) Attribute selector 
+       -- equal to =
+       -- starts with ^=
+       -- ends with $=
+       -- contains with (*=)
+    j) Group Selector 
+    k) pseudo class selectors 
+     a) link
+     b) visited
+     c) hover 
+     4) active 
+
+     read (:before, ::after, :first-letter,:first-line)
+
+https://css-tricks.com/specifics-on-css-specificity/
+
+
+Excercise
+-----------------------
+1) Learn
+BlockQuote
+Em (Emphasis)
+Strong 
+-- From Mdn
+
+2) HTML 5 elements from mdn (header, aside, footer , main e.t.c) 
+3) Create a blog or write some article 
+use all the tags we learnt 
+

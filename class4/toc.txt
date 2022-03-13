@@ -1,0 +1,7 @@
+1) Specificity https://css-tricks.com/specifics-on-css-specificity/
+2) table (nth-child), (:first-child, :last-child)
+3) display: block/inline 
+4) Box Model 
+5) color: hexa decimal/rgb 
+6) Units (em vs rem vs px, pt, %)
+

@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <!--
+        reset.css  
+        <link href="main.css" rel="stylesheet" /> -->
+    <style>
+
+  
+/** 1) Universal Selector **/
+    /* * {
+        font-size: 24px;
+    } */ 
+
+    /** 2) Html Element Selctor**/
+
+    li {
+        color: red;
+    }
+
+    /* li{
+        color: blue;
+    } */
+
+    /**
+    Class Selector 
+     **/
+    .favorite{
+        background-color: aqua;
+    }
+
+    .fruits {
+        font-size: 45px;
+    }
+
+    #hard{
+        font-style: italic;
+        color: green;
+        font-size: 35px;
+    }
+
+    /** 
+    Descendent Selector 
+    **/
+    /* .fruits li {
+        /* color: blue; 
+        font-size: 60px;
+    } */
+
+    /* .fruits li{
+        color: blue;
+    }  */
+
+    /** child selector **/
+    .fruits>li{
+        color: orange;
+    }
+    
+
+
+    /* li.fruit {
+        color: blue;
+    } */
+
+    </style>
+</head>
+<body>
+
+    <div >
+        This is List of Topics 
+        <ul class="subjects">
+            <li class="favorite">Maths</li>
+            <li>Science </li>
+            <li id="hard">English </li>
+            <li  class="favorite">Telugu </li>
+        </ul>
+        <ul class="fruits">
+            <li >Banana</li>
+            <li >PineApple</li>
+            <li class="fruit" >Mango</li>
+            <li >Strawberry</li>
+            <p>Hello</p>
+            <div id="seasonalFruit">
+                <li>Papaya</li>
+            </div>
+
+        </ul>
+    </div>
+    
+</body>
+</html>
